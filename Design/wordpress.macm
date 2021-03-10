@@ -1,4 +1,4 @@
-[11:24] DANIELE GRANATA
+
 CREATE
 (CSP:CSP {​​component_id:'3',name:'Cloud Service Provider',type:'CSP',app_id:'11',application:'Wordpress'}​​),
 (VM1:IaaS:service {​​component_id:'5',name:'Virtual Machine 1', type:'VM', app_id:'11',application:'Wordpress'}​​),
